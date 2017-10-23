@@ -1,1 +1,18 @@
+body {
+    background-color: paleturquoise;
+} 
+
+textarea {
+    background-color: lightyellow;
+}
  
+ .card {
+     border: 2px solid teal;
+     width: 50%;
+     padding: 10px;
+     background-color: beige;
+ }
+
+ label {
+     display: block;
+ }
